@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "エンパシー",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-04-01T12:40:06.346815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エンパシー",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_エンパシー_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エンパシー (Album Mix)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_エンパシー_(Album_Mix)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Empathy (Album Mix) [エンパシー]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Empathy_(Album_Mix)_[エンパシー]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エンパシー - From THE FIRST TAKE",
+      "artist": "ASIAN KUNG-FU GENERATION feat. Hiroko Sebu",
+      "has_synced": true,
+      "path": "select/04_エンパシー_-_From_THE_FIRST_TAKE_ASIAN_KUNG-FU_GENERATION_feat._Hiroko_Sebu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エンパシー - From THE FIRST TAKE",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_エンパシー_-_From_THE_FIRST_TAKE_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エンパシー",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/06_エンパシー_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エンパシー From THE FIRST TAKE",
+      "artist": "ASIAN KUNG-FU GENERATION & 世武　裕子",
+      "has_synced": true,
+      "path": "select/07_エンパシー_From_THE_FIRST_TAKE_ASIAN_KUNG-FU_GENERATION_&_世武_裕子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エンパシー",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/08_エンパシー_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "エンパシー - From THE FIRST TAKE",
+      "artist": "ASIAN KUNG-FU GENERATION & 世武裕子",
+      "has_synced": false,
+      "path": "select/09_エンパシー_-_From_THE_FIRST_TAKE_ASIAN_KUNG-FU_GENERATION_&_世武裕子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "エンパシー (From THE FIRST TAKE)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/10_エンパシー_(From_THE_FIRST_TAKE)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンパシー",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_エンパシー_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
